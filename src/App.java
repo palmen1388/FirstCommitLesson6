@@ -9,5 +9,6 @@ public class App {
         reader.setCodeValue(scanner.nextLine());
         writer.setCodeValue(scanner.nextLine());
         writer.writeFile();
+
     }
 }

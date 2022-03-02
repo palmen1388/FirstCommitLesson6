@@ -4,6 +4,7 @@ import java.io.*;
  */
 public class MyReader {
 
+
     private String codeValue;
     /**
      * Метод для указания кодировки читаемого файла

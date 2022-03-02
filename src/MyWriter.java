@@ -5,6 +5,7 @@ import java.io.*;
  */
 public class MyWriter {
 
+
     private MyReader reader = new MyReader();
     private String codeValue;
     /**
